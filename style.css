@@ -1,0 +1,166 @@
+body{
+    text-align: center;
+    background: linear-gradient(110deg, #98DDCA 60%, #F9F9F9 60%);
+}
+
+h1{
+    color: white;
+    padding: 50px auto 50px auto;
+    border: 200% auto 200% auto;
+    margin: 5% auto 5% auto;
+    font-family: 'Mate SC', serif;
+}
+
+h2{
+    color: whitesmoke;
+    margin: 5% auto 5% auto;
+    font-family: 'Mate SC', serif;
+}
+
+h3{
+    color:whitesmoke;
+    font-family: 'Mate SC', serif;
+}
+
+.contact-me{
+
+}
+
+a:hover{
+    color: black;
+}
+a{
+    color: white;
+    font-family:'montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+hr{
+    border: dotted #dddddd 6px;
+    border-bottom: none;
+    width: 15%;
+    margin: 50px auto;
+}
+
+.copyright{
+    color:black;
+    border-radius: 10px;
+}
+
+.chicken-1{
+    width: 1200px;
+    border-radius: 10px;
+    line-height: 2px;
+}
+
+.chicken-2{
+    width:1000px;
+    border-radius: 10px;
+    line-height: 2px;
+}
+
+.chicken-3{
+    width:1000px;
+    border-radius: 10px;
+    line-height: 2px;
+}
+
+.chicken-4{
+    width:1000px;
+    border-radius: 10px;
+    line-height:2px;
+}
+
+
+.chicken-5{
+    width:1000px;
+    border-radius: 10px;
+}
+
+.para{
+    color: black;
+    width: 50%;
+    margin: 30px auto;
+    line-height: 2;
+}
+
+
+.para-1{
+    color: black;
+    width: 50%;
+    margin: 30px auto;
+}
+
+.para-2{
+    color: black;
+    width: 50%;
+    margin: 30px auto;
+}
+
+.para-3{
+    color: black;
+    width: 50%;
+    margin: 30px auto;
+}
+
+.heading:hover{
+    color: black;
+}
+.heading{
+    background-color:black;
+    padding: 1px 0 1px 0;
+    margin: 30px auto;
+    border-radius: 10px;
+    width: 1200px;
+}
+.top-container{
+
+}
+
+.bottom-container{
+    background-color: #536162;
+    border-radius: 10px;
+    padding-top: 30px;
+}
+
+.btn {
+    background: #A7BBC7;
+    background-image: -webkit-linear-gradient(top, #A7BBC7, #A7BBC7);
+    background-image: -moz-linear-gradient(top, #A7BBC7, #A7BBC7);
+    background-image: -ms-linear-gradient(top, #A7BBC7, #A7BBC7);
+    background-image: -o-linear-gradient(top, #A7BBC7, #A7BBC7);
+    background-image: -webkit-gradient(to bottom, #A7BBC7, #A7BBC7);
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 11px;
+    -webkit-box-shadow: 0 0 20px 0 #000000;
+    -moz-box-shadow: 0 0 20px 0 #000000;
+    box-shadow: 0 0 20px 0 #000000;
+    text-shadow: 1px 0 20px #000000;
+    border: solid #D1D9D9 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    border: solid #000000 1px;
+    background: #D1D9D9;
+    background-image: -webkit-linear-gradient(top, #D1D9D9, #D1D9D9);
+    background-image: -moz-linear-gradient(top, #D1D9D9, #D1D9D9);
+    background-image: -ms-linear-gradient(top, #D1D9D9, #D1D9D9);
+    background-image: -o-linear-gradient(top, #D1D9D9, #D1D9D9);
+    background-image: -webkit-gradient(to bottom, #D1D9D9, #D1D9D9);
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+    text-decoration: none;
+ }
+
